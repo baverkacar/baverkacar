@@ -2,7 +2,7 @@
 
 ### I am freshman computer science student at Hacettepe University who is curious about learning everything i can.
 
-### 📚 I am currently learning:
+- 📚 I am currently learning:
     
     ▪️ Pandas, Matplotlib, Machine Learning (scikit-learn) on Python
     
@@ -14,7 +14,7 @@
     
     ▪️ Git and Github
  
-### 💻 Tools that ı am using:
+- 💻 Tools that ı am using:
     
     ▪️ Unity Game Engine
     
