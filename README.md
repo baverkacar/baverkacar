@@ -20,7 +20,7 @@
     
     ▪️ PyCharm
    
-    ▪️ Jupyter Notebook
+    ▪️ Jupyter Notebook, JupyterLab
     
     ▪️ VS Code and VS Code Live Share
     
