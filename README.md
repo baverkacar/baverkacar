@@ -1,16 +1,16 @@
 ## Hi, it's Baver here 👋 Glad to visit my profile.
 
-### I am freshman computer science student at Hacettepe University who is curious about learning everything i can.
+### I am Sophomore computer science student at Hacettepe University who is curious about learning everything i can and want to be a great backend developer.
 
 - 📚 I am currently learning:
     
-    ▪️ Pandas, Matplotlib, Machine Learning (scikit-learn) on Python
+    ▪️ Backend Development with Django and Spring Frameworks
     
     ▪️ Java Development
     
     ▪️ Game Development
    
-    ▪️ Microsoft Azure Cloud Technology
+    ▪️ Cloud Technology
     
     ▪️ Git and Github
  
@@ -28,7 +28,7 @@
     
     ▪️ NetBeans
 
-### You can connect with me anytime you want
+<center> ### You can connect with me anytime you want
 
 <br/>
 
