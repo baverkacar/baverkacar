@@ -28,7 +28,8 @@
     
     ▪️ NetBeans
 
-<center> ### You can connect with me anytime you want
+ ### You can connect with me anytime you want
+
 
 <br/>
 
