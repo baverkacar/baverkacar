@@ -11,8 +11,6 @@
 ▪️ Data Structures and Algorithms
 
 ▪️ Backend Development
-    
-▪️ Database Management
    
 ▪️ Cloud Technology
     
