@@ -21,14 +21,6 @@
 <a href="https://www.linkedin.com/in/baver-ka%C3%A7ar-b14460187/">
   <img align="left" alt="baver-kaçar-b14460187 | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/baverkcr">
-  <img align="left" alt="baverkcr | Twitter" width="100px" src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/baverkacar/">
-  <img align="left" alt="baverkacar | Instagram" width="100px" src="https://img.shields.io/badge/-instagram-purple?style=plastic&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/baverkacar">
-  <img align="left" alt="baverkacar | Hackerrank" width="100px" src="https://img.shields.io/badge/-Hackerrank-333333?style=flat&logo=Hackerrank&logoColor=white" />
   
 </a> 
 
