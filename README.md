@@ -1,6 +1,6 @@
 ## Hi, it's Baver here 👋 Glad to visit my profile.
 
-### I am Sophomore computer science student at Hacettepe University who is curious about learning everything i can and want to be a great backend developer.
+### I am Junior computer science student at Hacettepe University who is curious about learning everything i can and want to be a great backend developer.
 
 ## 💻 Tech Stack 
     
